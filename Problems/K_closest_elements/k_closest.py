@@ -40,6 +40,7 @@ here need to move winodw to right and mid could be the target
 here need to move window to right and mid could be the target
 
 4. when binary search end (left = right), we find the end point of the k substring
+and then return it.
 """
 
 def findClosestElements_bry(arr, k, x):
